@@ -2,6 +2,9 @@
 
 This repository contains a robust MATLAB script designed to process experimental wind tunnel data for an airfoil. The tool automates data ingestion, performs vectorized aerodynamic calculations, applies necessary wind tunnel wall corrections, and generates high-quality plots for analysis.
 
+## 🎓 Academic Context
+This project and the associated wind tunnel experiments were conducted as part of the **3rd Year Aerodynamics Course** curriculum. The data processing reflects standard industry practices for analyzing experimental airfoil performance and correcting for laboratory environment interference.
+
 ## 🚀 Features
 
 * **Automated Data Import:** Utilizes `readmatrix` to dynamically pull pressure tap locations and experimental readings from Excel/CSV files, eliminating manual data entry.
